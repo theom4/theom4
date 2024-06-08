@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theom4
-- 👀 I’m interested in everything related to Embedded Software : from MCUs, AI and Networking to Embbeded Linux
+- 👀 I’m interested in everything related to Embedded Software : from IoT, AI and Networking to Embbeded Linux
 - 🌱 I’m currently learning Embedded Linux
 - 📫 How to reach me : teofiltopciu123@gmail.com
 - 😄 Pronouns: They/Don't/Know/Me/Son
